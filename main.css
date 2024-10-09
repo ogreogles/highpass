@@ -1159,10 +1159,10 @@ input[type="submit"] {
   .header__logo::before {
     height: 27px;
   }
-  .logo {
+ /* .logo {
     width: 166px;
     height: 26.79px;
-  }
+  }*/
 }
 @media (max-width: 970px) {
   .logo {
